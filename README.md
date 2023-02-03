@@ -46,7 +46,22 @@ Scalability: The system must function correctly and without error when a large n
 ### Q.2. Identify scope, features and non-functional aspects of the following problem.
 
 ### Scope of the problem:
+- All those people who suffer some kind of hearing disability or ADHD disorder or any other kind of disorder that makes it difficult for them to hear or understand the things around them.
+- Family of people suffering from such diseases or disorders.
+- Government organizations and NGOs helping people with hearing loss.
+- Any people who want to keep this device with them as a safety measure or for any other purpose.
 
 ### Features of the problem:
+- Artificial intelligence for sound recognition: The app should be able to provide the user with the insights about the sound events and should be able to provide the user with the information about the sound events.
+- Immediate alerts for key sound events: The user should be notified in case of any key sound event via notification with vibration.
+- Continual logging of sound events: The sound detection events should be stored for future use and reliability and for improving the system.
+- The mobile application should be optimized for Android and iOS with low-latency for real-time use.
+- Users Family should be notified in case of any high-risk sound detection event.
 
 ### Non-functional aspects of the problem:
+- Performance: Low-latency real-time operation is critical for the application to be effective.
+- Capacity and Scalability: the mobile application should work with 10,000 users initially and should be scalable in case of an increase the user base.
+- Usability: The application should be easy to use for people with hearing loss.
+- Reliability: The application should be reliable and provide consistent performance.
+- Security: The application should protect the privacy and sensitive information of users.
+- Disaster Recovery: The system and server should not experience any down time at all as it is cruicial for the ill to be able to use the application at all the times. For this, alternative deployments can be made and multiple servers in different regions can be used.
