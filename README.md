@@ -38,8 +38,6 @@
 - Disaster Recovery: The LIS must not be down for more than 2 hours for any reason. Robus infrastructre should be used to deploy the web application and alternative deployments should be made in case of durability issues.
 - Accessibility: The system should be accessible only within the institute LAN for security reasons, as this reduces the risk of unauthorized access from outside the network.
 - Maintainability: The system should be as simple to update as possible. Even if changes are made, the current system should continue to function properly. The system should function properly in the event that additional features are necessary to be added.
-- Accessibility - The database can be used on systems other than the one in which it was originally built.
-Reliability: System should be reliable and accessible throughout the entire time the library is open. At this crucial time, the system shouldn't experience any failure.
 Scalability: The system must function correctly and without error when a large number of users access it. The servers should be updatable in case of increase of users.
 - Accuracy - The system must make sure that the information maintained regarding the books and the calculations of the penalties is accurate and consistent.
 
